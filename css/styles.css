@@ -739,14 +739,12 @@ img {
     content: "";
     width: 24px;
     height: 24px;
-    
     background-image:url(../images/icon\ send.svg);
     background-repeat: no-repeat;
     background-position: center;
     margin-left: 10px;
 
-    
-    
+      
 }
 
 
@@ -870,6 +868,9 @@ img {
         line-height: 1.88;    
         color: var(--second-title-color)}
 
+
+/*-----------------------MODAL---------------------*/
+
 .modal {
         width: 528px;
         min-height: 581px;
@@ -948,6 +949,7 @@ img {
 .input-wrap {
         position: relative;
       }
+      
       
 .modal-icon {
         position: absolute;
@@ -1039,8 +1041,7 @@ img {
         display: flex;
         justify-content: center;
         align-items: center;
-
-               
+             
       }
 
 
